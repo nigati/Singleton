@@ -1,0 +1,18 @@
+2022-04-07 12:53:46 INFO  I18NManager:29 - language:cakey:l1
+2022-04-07 12:53:46 INFO  I18NManager:31 - I'm going to the file system
+2022-04-07 12:53:46 INFO  I18NManager:33 - The bundle is being added to cache
+2022-04-07 12:53:46 INFO  I18NManager:41 - hola
+2022-04-07 12:53:46 INFO  I18NManager:29 - language:cakey:l1
+2022-04-07 12:53:46 WARN  I18NManager:38 - Bundle used in cache
+2022-04-07 12:53:46 INFO  I18NManager:41 - hola
+2022-04-07 12:53:46 INFO  I18NManager:29 - language:cakey:l2
+2022-04-07 12:53:46 WARN  I18NManager:38 - Bundle used in cache
+2022-04-07 12:53:46 INFO  I18NManager:41 - adéu
+2022-04-07 12:53:46 INFO  I18NManager:29 - language:eskey:l2
+2022-04-07 12:53:46 INFO  I18NManager:31 - I'm going to the file system
+2022-04-07 12:53:46 INFO  I18NManager:33 - The bundle is being added to cache
+2022-04-07 12:53:46 INFO  I18NManager:41 - adiós
+2022-04-07 12:53:46 INFO  I18NManager:29 - language:ptkey:l2
+2022-04-07 12:53:46 INFO  I18NManager:31 - I'm going to the file system
+2022-04-07 12:53:46 INFO  I18NManager:33 - The bundle is being added to cache
+2022-04-07 12:53:46 INFO  I18NManager:41 - obrigado
